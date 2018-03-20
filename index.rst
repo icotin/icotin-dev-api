@@ -1,4 +1,4 @@
-.. Documentation for ICOTIN.
+
 
 Welcome to ICOTIN's API documentation!
 ==========================================
@@ -26,7 +26,7 @@ Features
 TODO
 
 
-Sphinx-Gallery Show: :ref:`examples-index`
+Gallery Show:
 ------------------------------------------
 
 Contents:
@@ -48,6 +48,4 @@ Contents:
 Indices and tables
 ==================
 
-* :ref:`details`
-* :ref:`price`
-* :ref:`total-raised`
+
