@@ -1,11 +1,8 @@
-
+.. Documentation for ICOTIN.
 
 Welcome to ICOTIN's API documentation!
 ==========================================
-
-A `ICOTIN <http://icotin.io/>`_ TODO .
-
-
+`ICOTIN <http://icotin.io/>`_ is a platform to promote projects and help teams raise funds via token sales.
 
 The code of the project is on Github: `ICOTIN API <https://github.com/icotin/icotin-dev-api>`_
 
@@ -13,7 +10,8 @@ Why ICOTIN?
 -------------------
 
 * Simple 
-* Links to whitepaper -
+* Links to whitepaper   
+* Support & FAQ icotin.helpsite.io
 
 
 What does it look like?
@@ -26,7 +24,7 @@ Features
 TODO
 
 
-Gallery Show:
+Gallery Show: :ref:`examples-index`
 ------------------------------------------
 
 Contents:
@@ -41,6 +39,7 @@ Contents:
    syntax
    utils
    reference
+   ICO-templates
    tutorials/index
    changes
 
@@ -48,4 +47,6 @@ Contents:
 Indices and tables
 ==================
 
-
+* :ref:`details`
+* :ref:`price`
+* :ref:`total-raised`
