@@ -13,7 +13,7 @@ Why ICOTIN?
 -------------------
 
 * Simple 
-* Links to whitepaper
+* Links to whitepaper -
 
 
 What does it look like?
